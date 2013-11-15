@@ -1,4 +1,4 @@
 MyBlog
 ====
-
--ÎÄÕÂ:[ÒÆ²½·ÃÎÊ](https://github.com/0xC000005/MyBlog/issues)
+æ–‡ç« ï¼š[ç§»æ­¥è®¿é—®]
+(https://github.com/0xC000005/MyBlog/issues)
