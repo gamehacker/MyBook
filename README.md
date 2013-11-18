@@ -2,5 +2,5 @@
 
 --
 #1.龙书
-[阅读](../DragonBook/README.md)
+[阅读](https://github.com/0xC000005/MyBook/blob/master/DragonBook/README.md)
 
